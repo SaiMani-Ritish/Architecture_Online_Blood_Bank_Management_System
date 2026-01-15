@@ -1,4 +1,4 @@
-# Online Blood Bank Management System through AWS Architecture
+# AWS Architecture for an Online Blood Bank Management System 
 
 ## Abstract
 This research presents an innovative blood bank management system built on **AWS cloud services**. It enhances donor coordination, inventory tracking, and emergency response using a real-time mobile-web application.
