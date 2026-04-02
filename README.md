@@ -19,8 +19,3 @@ This research presents an innovative blood bank management system built on **AWS
 - **IoT Core**, **Kinesis**, **Timestream**  
 - **Cognito**, **CloudFront**, **Route 53**  
 - **EC2**, **API Gateway**, **SNS**
-
----
-
-## Author   
-- **Sai Mani Ritish Upadhyayula**  
